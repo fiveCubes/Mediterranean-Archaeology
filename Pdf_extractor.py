@@ -20,7 +20,7 @@ class pdf_extractor:
             
             
 
-    def get_paragraph(self):
+    def get_paragraphs(self):
             self.load_text()
             for i in range(1,58):
                 start = int(i)
@@ -46,7 +46,7 @@ class pdf_extractor:
 
 if(__name__=='__main__'):  
     pdf_ex = pdf_extractor('./newRVp3.pdf')
-    p_list=pdf_ex.get_paragraph()
+    p_list=pdf_ex.get_paragraphs()
     out = open('demo1.txt','a')
     for i in p_list:
         print(i)
