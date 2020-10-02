@@ -1,0 +1,114 @@
+{'id': 1, 'shape': 'Neck-amphora ', 'location': 'Geneva HR 29', 'plate': 'PLATE 15', 'dimension': 'Ht. 42-3. ', 'extras': 'Chamay, La Guerre de Troie, pp. 24-5, ill. on p. 25; Genava 33, 1985, p. 185, fig. 1; Le Peinlre de Darius et son milieu ( 1986), pp. 264-9, with colour ill. on p. 29; detail, Musees de Geneve 265, May 1986, p. 17.', 'description': ' (a) Orestes and Pylades at the tomb of Agamemnon, on the base of which Electra is kneeling, a phiale in her 1. hand and her r. on top of a hydria; above-busts of two Furies, (b) nude youth with strigil and stick between draped youth (A 1) and draped woman, each with spray. Neck: (a) Siren, holding fillet and tambourine, (b) female head in profile to 1'}
+_____________
+{'id': 2, 'shape': 'Fragment (of a neck-amphora) ', 'location': 'New York 1985.74', 'plate': 'PLATE 16 a', 'dimension': '. 9-6 x 11-95.', 'extras': None, 'description': 'Upper part of woman, with basket upon her head, clasping the shaft of an Ionic column (from a funerary monument) with her r. hand'}
+_____________
+{'id': 3, 'shape': 'Hydria ', 'location': 'Madrid 11138 (L. 422)', 'plate': 'PLATE 16b-d', 'dimension': 'Ht. 37. ', 'extras': 'PP, no. 81; PPSupp, no. 88', 'description': '. Eros bending forward to 1., holding open wreath in both hands, between, to 1., standing draped woman with fillet in r., cista and wreath in 1. and, to r., draped woman holding mirror. Below the handles: 1., female head; r., head of youth (Hermes ?), wearing petasos'}
+_____________
+{'id': 4, 'shape': 'Lebes gamikos ', 'location': 'Paestum IV/452, from the area of the Heraion, Loc. IV', 'plate': 'PLATE 16 e', 'dimension': 'Ht. (to top of vase) 14; the handles have been restored. ', 'extras': 'PP-s, NF 6; PAdd, no. A 33', 'description': '. (a) Nude woman seated on pillar, holding phiale in 1. hand, (b) Eros running to 1'}
+_____________
+{'id': 5, 'shape': 'Fragments ', 'location': 'Paestum 3907 BA, from a building near the Temenos', 'plate': 'PLATE 16/', 'dimension': '', 'extras': 'PAdd, no. A 131', 'description': '. EARLY VASES Upper part of bearded silen, bending forward. From a skyphos'}
+_____________
+{'id': 6, 'shape': 'Fragments ', 'location': '6 Paestum 6455, from Contrada Laghetto (1956), sporadic', 'plate': '', 'dimension': '. 8 x 9-5.', 'extras': '', 'description': ' Forepart of a male figure striding forward to 1. For the palmette and floral cf. no. 4 above. From a krater. 2'}
+_____________
+{'id': 7, 'shape': 'Bell-kraters ', 'location': 'New York Market, Royal-Athena Galleries HFN 06', 'plate': 'PLATE 17 a, b', 'dimension': 'Ht. 30, diam. 26-5. ', 'extras': 'Art of the ancient world IV, 1985, no. 129, ill. on p. 39.', 'description': ' (a) Woman with tambourine dancing to 1., (b) bearded silen capering to 1., with phiale'}
+_____________
+{'id': 8, 'shape': 'Bell-kraters ', 'location': 'Basel Z 313', 'plate': 'PLATE 17 c, d', 'dimension': 'Ht. 31 -6, diam. 31-5. ', 'extras': 'PAdd, no. A 11, pi. 2 a-b; Schefold, Meisterwerke, no. VH 326, ill. on p. 237', 'description': '. (a) Papposilen offers egg to seated, half-draped Dionysos, holding a phiale in his r. hand, egg in 1., (b) Alr +A2'}
+_____________
+{'id': 9, 'shape': 'Bell-kraters ', 'location': 'Naples, private coll. (2) 4-1-5', 'plate': 'PLATE 17 e,f', 'dimension': 'Ht. 33, diam. 32-5. ', 'extras': None, 'description': ' (a) Half-draped Dionysos, leaning on stick below 1. arm, holding up a comic female mask in 1., in front ofseated nude Eros, holding wreath in 1. hand and touching mask with r., (b) Br, with chaplet +X2, with spray'}
+_____________
+{'id': 10, 'shape': 'Bell-kraters ', 'location': 'Paestum 32113, fron^Tempa Rossa di Fonte (1964), T. 2', 'plate': 'PLATE 18a', 'dimension': 'Ht. 38, diam. 35. ', 'extras': None, 'description': ' (a) White-haired phlyax standing in front of seated Dionysos, with r. hand raised, half-draped maenad, (b) Bv + A2. Recomposed from many fragments, with a good deal missing'}
+_____________
+{'id': 11, 'shape': 'Hydriai ', 'location': 'Paestum 48455, from C. Arcioni (1977), T. 271', 'plate': 'PLATE \\8b-d', 'dimension': 'Ht. 34. ', 'extras': None, 'description': 'Eros seated on an Ionic column, with phiale in 1. hand, and r. hand holding a fillet held by a draped woman standing in front of him with a ball in her r. hand; to r., standing draped woman with cista and wreath in r., fillet in 1. Below the handles: 1., head of Amazon, wearing mitra; r., head of young satyr. Found with a set of early vases, 48456, 48460-2 (see below, nos. 102, 105, 106, 111)'}
+_____________
+{'id': 12, 'shape': 'Hydriai ', 'location': 'Madrid 11137', 'plate': 'PLATED 18 e,f', 'dimension': 'Ht. 42. ', 'extras': 'PP, no. 80; PPSupp, no. 87', 'description': '. Nude youth bending forward over 1. foot on rock, with egg in r. hand, phiale in 1., facing standing draped woman, holding wreath in r. hand and mirror in 1., standing youth with phiale and fillet in r. hand, stick in 1., and drapery over both arms. Below the handles: female heads'}
+_____________
+{'id': 13, 'shape': 'Hydriai ', 'location': 'Madrid 11142 (L. 421)', 'plate': 'PLATE 19a,i', 'dimension': 'Ht. 31. ', 'extras': 'PP, no. 75; PPSupp, no. 107', 'description': '. Standing draped woman and nude youth, with drapery over both arms; between them, a palmette; to r. a laurel-branch. Below the handles: female heads. 2See RE xx, 925-8; Aristophanes, Clouds, 971; Pherecrates, Chiron, fr. 145 = Edmonds, Fragments of Attic Comedy i, p. 263. 3Edmonds, op. cit., p. 96, note 5 and p. 360, note 4; see also IGD, p. 140'}
+_____________
+{'id': 14, 'shape': 'Hydriai ', 'location': '14 Karlsruhe B 91 (W. 375)', 'plate': '', 'dimension': 'Ht. 25. ', 'extras': 'PP, no. 105; PPSupp, no. 134; CVA, pi. 77, 1-2', 'description': '. (a) Eros with phiale and wreath in 1. hand, egg in r., bending forward in front of standing draped woman, holding egg in r. hand, wreath in 1., (b) Air + A2'}
+_____________
+{'id': 15, 'shape': 'Olpe ', 'location': 'Paestum 22449, from C. Andriuolo (1969), T. 102', 'plate': 'PLATE \\9c,d', 'dimension': 'Ht. 25. ', 'extras': None, 'description': 'Seated half-draped Dionysos, young satyr bending forward in front of him. Cf. no. 16, from the same tomb'}
+_____________
+{'id': 16, 'shape': 'lekythoi ', 'location': 'Paestum 22443, from C. Andriuolo (1969), T. 102', 'plate': 'PLATE 19e,f', 'dimension': 'Ht. 27. ', 'extras': None, 'description': 'Eros seated on spotted rock, facing standing draped woman, holding mirror, seated half-draped woman with egg in r. hand and fillet in 1'}
+_____________
+{'id': 17, 'shape': 'lekythoi ', 'location': '17 Mainz O. 29212', 'plate': '', 'dimension': 'Ht. 32. ', 'extras': 'PAdd, no. A 26, pi. 7a; CVA 2, pi. 17, 4-6', 'description': '. Eros leaning forward, resting 1. arm on pillar, with wreath in r. hand, phiale and fillet in 1., and facing draped woman who holds a phiale in her 1. hand and grasps the fillet with her r'}
+_____________
+{'id': 18, 'shape': 'Bell-kraters ', 'location': 'Paestum, from Pontecagnano, T. 18 (6.7.1960)', 'plate': 'PLATE20a,6', 'dimension': 'Ht. 30-5, diam. 28 ', 'extras': None, 'description': ' (a) Seated Dionysos with phiale of eggs and white wreath, satyr (with Pan horns) holding syrinx, skin over his 1. arm, (b) Al + A2, with cloak drawn up over his head'}
+_____________
+{'id': 19, 'shape': 'Bell-kraters ', 'location': 'Salerno Mus. Prov., Pc 1812, from Pontecagnano', 'plate': 'PLATE20c,a"', 'dimension': 'Ht. 30-5. ', 'extras': 'PAdd, no. A 7; Phv2, no. 58, pi. 3b; Sestieri, ArchCl 12, 1960, pis. 40^-2; IGD, p. 140, IV, 31; Art Bull. Vict. 21, 1981, p. 25, fig. 27; Napoli, Civilta, pi. 80, 2; Letteratura e arte fig., no. 200 (ill.); / Mued degli Enti locali della Campania, Prov. di Salerno, fig. 17; Gigante, Rintone, pi. 6; Zschietzschmann, Gr. Kunst, pi. 162b', 'description': '. (a) Phlyax scene-Phrynis (OPYN1Z), holding cithara in 1. hand and plectrum in r., dragged off by Pyronides (nYPQNIAhTI), (b) Br (with only r. shoulder bare) + A2r, with spray'}
+_____________
+{'id': 20, 'shape': 'Bell-kraters ', 'location': 'Madrid 11037 (L. 383)', 'plate': 'PLATE 20 e', 'dimension': 'Ht. 26, diam. 24-5. ', 'extras': 'PPSupp, no. 66, pi. 6c', 'description': '. (a) Seated half-draped youth holding phiale and wreath, standing draped woman with fillet and thyrusus, (b) Air + A2r, with r. shoulder bare'}
+_____________
+{'id': 21, 'shape': 'Bell-kraters ', 'location': '21 Naples 781 (inv. 82603)', 'plate': '', 'dimension': 'Ht. 26, diam. 25. ', 'extras': 'PAdd, no. A 48', 'description': ". (a) Half-draped Dionysos, with 'skewer of fruit' and fillet, seated by stele, (b) youth striding to r., with drapery over 1. arm, and stick in 1. hand"}
+_____________
+{'id': 22, 'shape': 'Bell-kraters ', 'location': 'Paestum, from S', 'plate': 'PLATE20/', 'dimension': '', 'extras': None, 'description': ' (a) Part of a phlyax actor, wearing a red jerkin, with a short tunic over it. (5 x 7-5). (b) Two fragments of the reverse: 1566, showing the head and upper part of the body of the left-hand youth (Air), with a small portion of the drapery of the youth who faces him; 1380, the lower part of the body of the youth to r., showing the left leg and the cloak over it'}
+_____________
+{'id': 23, 'shape': 'Bell-kraters ', 'location': 'Paestum 20386, from C. Licinella (1967), T. 31', 'plate': 'PLATE21 a,b', 'dimension': 'Ht. 36, diam. 34. ', 'extras': None, 'description': ' (a) Bearded silen with phiale in r. hand and fawn-skin over 1. arm standing in front of half-draped Dionysos, seated upon a stele, with a phiale in his r. hand, (a) Dionysos, with thyrsus in 1. hand and drapery over 1. shoulder, facing bearded silen, who bends forward holding out a phiale of eggs'}
+_____________
+{'id': 24, 'shape': 'Bell-kraters ', 'location': 'Melbourne D 391/1980', 'plate': 'PLATE 21 c,d', 'dimension': 'Ht. 25-5, diam. 34-7. ', 'extras': 'Art Bull. Vict. 21, 1981, pp. 20-29, figs. 20, 22-3, 26.', 'description': ' (a) Dionysos, holding thyrsus in r. hand and phiale in 1., with bell suspended from 1. wrist and drapery over both arms, facing maenad, leaning on pillar, with spray in r. hand and white-haired phlyax mask and thyrsus in 1., (b) Al + A2, with cloak drawn up over his head'}
+_____________
+{'id': 25, 'shape': 'Bell-kraters ', 'location': 'Los Angeles, Sidney Port coll. (ex Summa Galleries, inv. 82)', 'plate': 'PLATE 22 a, b', 'dimension': 'Ht. 36, diam. 36-7) ', 'extras': 'Sotheby, Sale Cat. 3 Dec. 1973, no. 69, pi. 19a; Summa Galleries, Cat. 1, no. 30 (ill.); Art Bull. Vict. 21, 1981, p. 23, figs. 24-5.', 'description': ' (a) Seated white-haired silen clasping skyphos with both hands, Dionysos with thyrsus in r. hand and drapery around 1. arm; to 1., duck, (b) Al + A2, with cloak drawn up over head, each with spray'}
+_____________
+{'id': 26, 'shape': 'Bell-kraters ', 'location': 'B.M. F 188', 'plate': 'PLATE 22 c, d', 'dimension': 'Ht. and diam. 37. ', 'extras': 'PP, no. 36, pi. 10a and fig. 15; PPSupp, no. 46; PhV2, p. 36, no. 48 (with bibliography to date); SIVP2, pi. 14a; R. M. Cook, Greek Painted Pottery2, pi. 55B', 'description': '. (a) Dionysos and white-haired phlyax with a Karneian basket on his head, (b) Al, with spray, + A2, with cloak drawn up over his head'}
+_____________
+{'id': 27, 'shape': 'Hydriai ', 'location': 'Hillsborough, Mrs. R. A. Hearst coll. 23, ex San Simeon 5434', 'plate': 'PLATE 23 a', 'dimension': 'Ht. 34-5. ', 'extras': None, 'description': 'PAdd, no. A 25; I. K'}
+_____________
+{'id': 28, 'shape': 'Hydriai ', 'location': 'Vienna 581', 'plate': 'PLATE23', 'dimension': 'Ht. 38. ', 'extras': 'PP, no. 82, pi. 14a; PPSupp, no. 112, Gerlinde Haas, Die Syrinoi, fig. 36', 'description': ' Seated draped woman with open box, in front of whom is Hermes bending forward, with caduceus in 1. hand and fillet in r., to r. youthful Pan-satyr with thyrsus in 1. hand, syrinx in r., and bell suspended from r. arm. Below the handles: 1., head of youth wearing pilos; r., head of woman wearing saccos'}
+_____________
+{'id': 29, 'shape': 'Hydriai ', 'location': 'Once Zurich Market, Arete 2252', 'plate': 'PLATE 23d,e', 'dimension': 'Ht. 29-3. ', 'extras': None, 'description': 'Standing nude youth with dish of eggs and fillet in his 1. hand, drapery over 1. arm, facing standing draped woman with egg in each hand; between them, a palmette. Below the handles: female heads. 5Angela Greco Pontrandolfo, MEFRA 89, 1977, p. 50, where this vase is mistakenly attributed to the Dirce Painter. Most of the vases by the Thyrsus Painter found in Paestan tombs seem slightly to predate those by Asteas, but Paestum 48456 (no. 102) was also found with a vase by the Thyrsus Painter (48464), which suggests some measure of overlap between the two painters'}
+_____________
+{'id': 30, 'shape': 'Hydriai ', 'location': '30 Once Zurich Market, Arete', 'plate': '', 'dimension': '', 'extras': '', 'description': ''}
+_____________
+{'id': 31, 'shape': 'Hydria ', 'location': 'Naples, private coll. (2) 4-5-2', 'plate': 'PLATE24a,', 'dimension': 'Ht. 18. ', 'extras': None, 'description': 'A Schauenburg, RM 92, 1985, p. 62, note 151. Standing draped woman with mirror, nude youth; between them, small palmette. Below the handles: owls'}
+_____________
+{'id': 32, 'shape': 'Squat lekythos ', 'location': 'Paestum 28901, from C. Andriuolo (1969), sporadic. Broken and repaired; top missing, act.', 'plate': '', 'dimension': 'ht. 18. ', 'extras': '', 'description': 'Plate 24 c-e Maenad with si tula moving to r., capering satyr with wine-skin over 1. shoulder and ash over I. arm'}
+_____________
+{'id': 33, 'shape': 'Skyphos ', 'location': 'Oxford 1945. 43', 'plate': 'PLATE24/,^', 'dimension': 'Ht. 14, diam. 23-4/14-1. ', 'extras': 'PPSupp, no. 116, pi. 5b; PhV2, p. 58, no. 96; Richter, Gr. Furn.2, fig. 366; Vickers, Gr. Vases2, pi. 73', 'description': '. (a) Phlyax watching female tumbler on turn-table, of which he is holding the cords; above, white female mask (Type S; the white has now largely worn off), (b) maenad holding up tambourine in front of seated half-draped Dionysos'}
+_____________
+{'id': 34, 'shape': 'Skyphos ', 'location': 'Naples, private coll. (2) 4-1-1', 'plate': 'PLATE 25 a,', 'dimension': 'Ht. 31, diam. 28.5. ', 'extras': 'A', 'description': ' (a) Young satyr with thyrsus and fillet, Dionysos with thyrsus, drapery over 1. arm and held in r. hand, (b) Air + A2r'}
+_____________
+{'id': 35, 'shape': 'Skyphos ', 'location': 'Paestum 21206, from C. Andriuolo (1969), T. 11', 'plate': 'PLATE 25 <r,d', 'dimension': 'Ht. 30, diam. 29-5 ', 'extras': 'Pontrandolfo, Dial, di Arch. 1979/2, p. 37, fig. 8 (showing whole tomb), reproduced in I Lucani, pi. 20)', 'description': ' (a) Dionysos with thyrsus and horn, draped woman with wreath in upraised 1. hand and fillet over 1. arm, (b) Air + A2r'}
+_____________
+{'id': 36, 'shape': 'Skyphos ', 'location': 'Collonges (Geneva), private coll', 'plate': 'PLATE26a,b', 'dimension': 'Ht. 34-5. ', 'extras': None, 'description': ' (a) Phlyax, holding phiale in 1. hand, running to 1., followed by Dionysos, with drapery over r. thigh and 1. arm, (b) Air + A2r'}
+_____________
+{'id': 37, 'shape': 'Skyphos ', 'location': 'Madrid 11019 (L. 373)', 'plate': 'PLATE26<;,^', 'dimension': 'Ht. 35, diam. 35. ', 'extras': 'PP, no. 44, pi. lOe and fig. 18; PPSupp, no. 52', 'description': '. (a) Young satyr seated on enclosed fan-palmette, holding cup in r. hand and wreath in ]., Dionysos with horn and thyrsus, drapery over 1. arm, (b) Air + A2r, both with sticks'}
+_____________
+{'id': 38, 'shape': 'Skyphos ', 'location': 'Madrid 11059 (L. 372)', 'plate': 'PLATE 27 a,', 'dimension': 'Ht. 31, diam. 30. ', 'extras': 'PP, no. 61, fig. 20; PPSupp, no. 75', 'description': '. (a) Young satyr with phiale in r. hand, thyrsus and fillet in 1., draped woman with fillet over 1. arm, (a) Air + A2'}
+_____________
+{'id': 39, 'shape': 'Skyphos ', 'location': '39 Bologna 490', 'plate': '', 'dimension': 'Ht. 34, diam. 33. ', 'extras': 'PP, no. 76, fig. 29; PPSupp, no. 76; CVA 3, IV Gs, pi. 1, 1-3', 'description': '. (a) Dionysos, with thyrsus and phiale, drapery over 1. arm, following Pan playing the flute and moving to r., (b) Al + A2r, with stick'}
+_____________
+{'id': 40, 'shape': 'Skyphos ', 'location': '40 Benevento, from Montesarchio, T. 1625', 'plate': '', 'dimension': 'Ht. 33. (a) ', 'extras': '', 'description': 'Phlyax, with flat dish on his head, running to 1., followed by Dionysos, (b) A3c + A2'}
+_____________
+{'id': 41, 'shape': 'Skyphos ', 'location': '41 B.M. F 153', 'plate': '', 'dimension': 'Ht. 32-5, diam. 31. ', 'extras': 'PP, no. 54, pi. lOd and fig. 21; PPSupp, no. 54', 'description': '. (a) Young satyr with torch running to 1., followed by Dionysos, holding bell in r. hand and thyrsus in 1., (b) Air + A3c, both with sticks'}
+_____________
+{'id': 42, 'shape': 'Skyphos ', 'location': '42 Turin 4703', 'plate': '', 'dimension': 'Ht. 34. ', 'extras': 'PPSupp, no. 55, pi. 4b; CVA 1, IV G, pi. 1, 1-2', 'description': '. (a) Young satyr playing the flute and running to 1., followed by Dionysos, holding horn and thyrsus, (b) Air -I- A3c, both with sticks'}
+_____________
+{'id': 43, 'shape': 'Skyphos ', 'location': 'Dublin 1880-510', 'plate': 'PLATE 27 c, d', 'dimension': 'Ht. 34-9, diam. 33-3. ', 'extras': 'PPSupp, no. 67, pi. 7a; EAA i, p. 285, fig. 414; Johnston, Gr. V. in Ireland, p. 390, no. 498', 'description': ". (a) Dionysos, with egg in r. hand and thyrsus in 1., facing maenad with thyrsus in 1. hand and three 'eggs' in r., (b) A3c + A2r, both with sticks. Cf. also with Dublin 1880-505 (no. 170)"}
+_____________
+{'id': 44, 'shape': 'Skyphos ', 'location': 'Madrid 11062 (L. 385)', 'plate': 'PLATE 27 e,f', 'dimension': 'Ht. and diam. 29. ', 'extras': 'PP, no. 59, fig. 25; PPSupp, no. 74', 'description': '. (a) Half-draped Dionysos seated on tendril, with phiale in 1. hand, facing young Pan-satyr, with thyrsus in 1. and egg in r., (b) A3r + A2r, both holding eggs, and 1. with stick'}
+_____________
+{'id': 45, 'shape': 'Skyphos ', 'location': 'B.M. F 150', 'plate': 'PLATE 28 a,', 'dimension': 'Ht. 38, diam. 36-5. ', 'extras': 'PP, no. 47, pi. 9d; PPSupp, no. 58; PhV2, p. 35, no. 36 (where bibliography to date); Hist', 'description': '. Hell. Eth. Ill, 2, colour-ill. on p'}
+_____________
+{'id': 46, 'shape': 'Skyphos ', 'location': 'Once Agrigento, Giudice coll. 193', 'plate': 'PLATE 28 c, d', 'dimension': 'Ht. 33. ', 'extras': 'PP, no. 45, pi. 10c and fig. 17; PPSupp, no. 56', 'description': '. (a) Bearded silen seated in front of Dionysos, who bends forward in front of him, a piece of drapery over his 1. arm and round the lower part of his body, (b) A3r + A2r'}
+_____________
+{'id': 47, 'shape': 'Skyphos ', 'location': '47 Benevento 348 (old no. 1503), from Moiano', 'plate': '', 'dimension': 'Ht. 34, diam. 30-5. (a) ', 'extras': '', 'description': "Young satyr with fillet and phiale, Dionysos with 'skewer of fruit', moving to 1., (b) A3c + A2, both with sticks"}
+_____________
+{'id': 48, 'shape': 'Skyphos ', 'location': '48 (old no. 1503), from Moiano', 'plate': '', 'dimension': 'Ht. 34, diam. 30-5. (a) ', 'extras': 'PAdd, no. A 13', 'description': '. (a) Pan in front of seated half-draped Dionysos, (b) Al + A2r (almost all worn away)'}
+_____________
+{'id': 49, 'shape': 'Skyphos ', 'location': '49 S. Agata 184', 'plate': '', 'dimension': 'Ht. 30. ', 'extras': 'PAdd, no. A 5', 'description': '. (a) Dionysos and bearded silen, (b) A3c + A2r'}
+_____________
+{'id': 50, 'shape': 'Skyphos ', 'location': 'Salerno, Mus. Prov., Pc 1813, from Pontecagnano', 'plate': 'PLATE 28 e,f', 'dimension': 'Ht. 33, diam. 32. ', 'extras': 'PAdd, no. A 6', 'description': '. (a) Papposilen, holding up cup in r. hand and resting 1. on lap of seated half-draped Dionysos, who holds an egg in his r. hand and a thyrsus in his 1., (b) with stick in r. hand and fillet in 1., + A3c'}
+_____________
+{'id': 51, 'shape': 'Skyphos ', 'location': 'Pontecagnano 36420, from T. 1183', 'plate': 'PLATE 29 a, b', 'dimension': 'Ht. 32, diam. 32. ', 'extras': None, 'description': ' (a) Dionysos with drapery over 1. arm and phiale in 1. hand running to r. after a white-haired phlyax playing the flute, (b) Bv + A3c'}
+_____________
+{'id': 52, 'shape': 'Skyphos ', 'location': 'Pontecagnano 36525, from T. 1255, Ht. 35-5, diam. 33', 'plate': 'PLATE 29 c, d', 'dimension': 'Ht. 35-5, diam. 33. ', 'extras': None, 'description': ' (a) Young satyr playing the flute and running to 1., followed by Dionysos, with drapery over both arms, (b) Air + Br'}
+_____________
+{'id': 53, 'shape': 'Skyphos ', 'location': 'Pontecagnano 36475, from T. 901', 'plate': 'PLATE 29 e,f', 'dimension': 'Ht. 29, diam. 31. ', 'extras': None, 'description': ' (a) Young satyr with thyrsus and phiale standing in front of half-draped Dionysos seated on altar, with wreath in each hand, (b) Air, with egg, + Bv, with phiale and stick'}
+_____________
+{'id': 54, 'shape': 'Skyphos ', 'location': '54 B.M. F 152', 'plate': '', 'dimension': 'Ht. and diam. 31. ', 'extras': 'PP, no. 40, pi. 10b and fig. 20; PPSupp, no. 48', 'description': '. (a) Half-draped Dionysos, with tambourine in 1. hand, standing in front of Eros, holding a fillet in both hands, (a) Bv, with stick and egg, + A2r, with fillet'}
+_____________
+{'id': 55, 'shape': 'Skyphos ', 'location': '55 Naples 181117', 'plate': '', 'dimension': 'Ht. 28.5, diam. 27-3. ', 'extras': 'PAdd, no. A 12', 'description': '. (a) Nude young satyr standing in front of half-draped Dionysos, seated upon a palmette and holding a thyrsus in his 1. hand, (b) Bv, with stick in r. and egg in 1. hand, + A2r, with stick'}
+_____________
+{'id': 56, 'shape': 'Skyphos ', 'location': '56 Paestum 1748, from area N. of Porta Aurea', 'plate': '', 'dimension': 'Ht. 30-5, diam. 30. ', 'extras': 'PPSupp, no. 53, pi. 4a; Marzullo, Tombe dipinte, pp. 12-14, fig. 3; Patroni, KPfigs. 16-17', 'description': '. (a) Young satyr, holding phiale and wreath, bending forward in front of Dionysos, (o) Bv, with spray and egg, + A2r, with stick'}
+_____________
+{'id': 57, 'shape': 'Skyphos ', 'location': '57 Geneva, private coll', 'plate': '', 'dimension': 'Ht. 34, diam. 32-5. (a) ', 'extras': '', 'description': "Dionysos with thyrsus and phiale, running to r., after Pan, with horn in r. hand and torch in 1., (a) with fillet in r. hand, and 'skewer of fruit' in 1., + A2r, with stick"}
+_____________
