@@ -45,7 +45,7 @@ class pdf_extractor:
             return self.paragraphs_list
 
 if(__name__=='__main__'):  
-    pdf_ex = pdf_extractor('./newRVp3.pdf')
+    pdf_ex = pdf_extractor('./newRvp3.pdf')
     p_list=pdf_ex.get_paragraphs()
     out = open('demo1.txt','a')
     for i in p_list:
