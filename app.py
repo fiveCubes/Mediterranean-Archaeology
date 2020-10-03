@@ -10,3 +10,8 @@ def index():
     return jsonify({"success": True , "Vase_details":p_list})
 
 
+@app.route('/vase')
+def vase():
+    pdf_ex = pdf_extractor('./newRvp3.pdf')
+    p_list= [p.get_alan_format() for p in pdf_ex.get_paragraphs()]
+    return jsonify({"success": True , "Vase_details":p_list})

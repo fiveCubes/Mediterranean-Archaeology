@@ -145,6 +145,21 @@ class Paragraph:
         formatted_attr = self.format_attributes()
         return formatted_attr
 
+    def get_alan_format(self):
+        f = self.format_attributes()
+        alan_format = {
+             'vase_name': f['shape'],
+              'vase_number':f['id'],
+               'description':f['description'],
+               'dimension':f['dimension'],
+               'vase_location':f['location'],
+               'vase_plate':f['plate'],
+                'vase_extras':f['extras']
+        }
+
+        return alan_format
+
+
         
 
 if(__name__=='__main__'):
