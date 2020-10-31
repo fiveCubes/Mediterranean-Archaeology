@@ -40,9 +40,11 @@ Examples:
   pip install -r requirements.txt
   
 ## Running Server
+```
 export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
+```
 
 
 ## Files Details 
