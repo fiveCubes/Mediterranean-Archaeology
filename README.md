@@ -12,7 +12,7 @@ Return a Json Object
 
 
 Examples: 
-  
+  ```
   path : '/'
   return : 
   "Vase_details": [
@@ -34,7 +34,7 @@ Examples:
       "plate": "PLATE 16 a",
       "shape": "Fragment (of a neck-amphora) "
     },
-    
+  ```
   ## Installing Dependencies
   
   pip install -r requirements.txt
