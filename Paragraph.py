@@ -125,13 +125,22 @@ class Paragraph:
         if(plate):
             #remove (a) from the plates
              plate= re.sub(r'\([a-z]\)',"",plate[0])
-             self.attributes['plate']=plate.strip()
+             self.attributes['plate']=plate.strip() 
         if(shape):
-            self.attributes['shape']=shape[0]
+            #uncaptured 'Bell-Krates" shape to Id > 34 and < 50 is included'
+            if(int(self.attributes['id']) >=34 and int(self.attributes['id']) <=58):
+                self.attributes['shape']='Bell-Krates'
+            else:
+                self.attributes['shape']=shape[0]
         if(dimension):
             self.attributes['dimension']=dimension[0]
+            #filter the dimension to remove unwanted characters at the end.
+            self.attributes['dimension']=self.attributes['dimension'].replace('(a)','')
         if(description):
             self.attributes['description']=description
+
+        #filter on plates
+        self.attributes['plate'] = re.sub('(/)|(\^)|(,)|(<)|(\\\)',"",self.attributes['plate']).replace('\\','')
         
         return self.attributes
               
